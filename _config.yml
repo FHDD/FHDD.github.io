@@ -187,6 +187,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
