@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am currently a second year (2021-2022) master student in Department of SIGS at **Tsinghua University (THU)**, majoring in Electronic Information. Research direction is pathological image analysis with deep learning.
+* I am currently a second year (2021-2022) master student in Department of SIGS at **Tsinghua University (THU)**, majoring in Biomedical Engineering. Research direction is pathological image analysis with deep learning.
 
 * I went to **Technische Universität München (TUM)** for overseas study in 2019.
 
