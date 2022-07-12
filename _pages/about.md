@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About Me
 ======
 * I am currently a second year (2021-2022) master student in Department of SIGS at **Tsinghua University (THU)**, majoring in Electronic Information. Research direction is pathological image analysis with deep learning.
