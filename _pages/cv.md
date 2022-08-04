@@ -9,4 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View Curriculum Vitae](https://github.com/FHDD/FHDD.github.io/tree/master/files/Curriculum-Vitae-Hufei.pdf)
+DUAN Hufei (段虎飞)
+======
+
+[View Curriculum Vitae](http://FHDD.github.io/files/Curriculum-Vitae-Hufei.pdf)
