@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am currently a second year (2021-2022) master student in Department of SIGS at **Tsinghua University (THU)**. Research direction is pathological image analysis with deep learning.
+* I am currently a second year (2021-2022) master student in Department of SIGS at **Tsinghua University (THU)**, supervised by Prof. Tian Guan and Prof. [Yonghong He](https://scholar.google.com/citations?hl=zh-CN&user=KR_wIQgAAAAJ&view_op=list_works&sortby=pubdate)
 
 * I went to **Technische Universität München (TUM)** for overseas study in 2019.
 
