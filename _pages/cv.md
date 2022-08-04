@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 DUAN Hufei (段虎飞)
 ======
