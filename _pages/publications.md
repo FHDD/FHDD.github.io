@@ -12,6 +12,14 @@ Papers
 > <br /> **Hufei Duan**; Yiqing Liu; Hui Yan; Qiming He; Yonghong He; Tian Guan
 > <br /> 2022 7th International Conference on Automation, Control and Robotics Engineering (CACRE)
 
+> [Using Sparse Patch Annotation for Tumor Segmentation in Histopathological Images](https://www.mdpi.com/1424-8220/22/16/6053)
+> <br /> Yiqing Liu; Qiming He; **Hufei Duan**; Huijuan Shi; Anjia Han; Yonghong He
+> <br /> Sensors, 2022
+
+> A Domain Adaptive and Label-efficient Deep Learning Method for Ki-67 Scoring in Infiltrative Breast Ductal Carcinoma Cells
+> <br /> Yiqing Liu; **Hufei Duan**; Yuxin Ni; Huijuan Shi; Anjia Han; Yonghong He
+> <br /> ITNLP, 2022
+
 Patents
 ======
 > [A versatile intelligent insole based on EMG acquisition and cloud platform analysis](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=chagngui)
